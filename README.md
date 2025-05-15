@@ -15,7 +15,7 @@
 pip install -r requirements.txt
 ```
 
--   Embedding モデルをダウンロード(以下は Ruri-v3-310m の例)
+-   `models`フォルダーを作成し、Embedding モデルをダウンロード(以下は Ruri-v3-310m の例)
 
 ```bash
 huggingface-cli download cl-nagoya/ruri-v3-310m --local-dir ./models/ruri-v3-310m
