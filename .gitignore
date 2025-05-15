@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+test_directory/
+__pycache__/
+*.pyc
+models/

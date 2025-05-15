@@ -1,0 +1,19 @@
+exclude_dirs:
+  - ".vscode"
+  - ".obsidian"
+  - ".git"
+  - ".github"
+  - "Excalidraw"
+  - ".makemd"
+  - "trash"
+  - "_attachments"
+  - "_drafts"
+  - "_pages"
+  - "_templates"
+  - "_index"
+  - ".trash"
+
+include_exts:
+  - ".md"
+  - ".markdown"
+  - ".txt"
