@@ -70,3 +70,7 @@ python main.py "整理したいディレクトリのパス"
 ## カスタマイズ
 
 `config.yaml`ファイルを編集して、除外するディレクトリや対象とする拡張子をカスタマイズできます。
+
+## Credits
+
+-  [Ruri-v3-310m](https://huggingface.co/cl-nagoya/ruri-v3-310m) - 日本語テキストのベクトル化に使用
